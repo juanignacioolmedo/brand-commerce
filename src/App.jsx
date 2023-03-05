@@ -1,12 +1,12 @@
 import React from "react";
 import NavBar from "./components/NavBar";
-import ItemListConteiner from "./components/ItemListConteiner";
+import Content from "./components/Content";
 import {ChakraProvider} from '@chakra-ui/react'
 const App = () => {
   return (
     <ChakraProvider>
       <NavBar />
-      <ItemListConteiner greeting = {"Bienvenidos a mi tienda online"} />
+      <Content greeting = {"Bienvenidos a mi tienda online"} />
     </ChakraProvider>
   );
 };

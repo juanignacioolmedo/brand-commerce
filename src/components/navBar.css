@@ -1,0 +1,10 @@
+.navBar{
+    display: flex;
+    padding: 5px;
+    background-color: lavender;
+}
+
+.categoryButtonGroup:hover{
+    background-color: lavenderblush;
+}
+

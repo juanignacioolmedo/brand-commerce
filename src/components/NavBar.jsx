@@ -1,21 +1,22 @@
 import React from "react";
+import Brand from "./Brand";
+import Categories from "./Categories";
 import CartWidget from "./CartWidget";
-import { Menu, MenuButton, MenuList, MenuItem } from "@chakra-ui/react";
+import {Spacer} from "@chakra-ui/react";
+import "./navBar.css";
 
 const NavBar = () => {
   return (
-    <div>
-      <h3>Brand-Commerce</h3>
-      <Menu>
-        <MenuButton>Categorias</MenuButton>
-        <MenuList>
-          <MenuItem>Categoria A</MenuItem>
-          <MenuItem>Categoria B</MenuItem>
-          <MenuItem>Categoria C</MenuItem>
-          <MenuItem>Categoria D</MenuItem>
-          <MenuItem>Categoria E</MenuItem>
-        </MenuList>
-      </Menu>
+    <div className="navBar">
+      
+      <Categories />
+
+      <Spacer />
+
+      <Brand />
+
+      <Spacer />
+
       <CartWidget />
     </div>
   );

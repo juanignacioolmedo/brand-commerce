@@ -1,4 +1,6 @@
 # Proyecto de React en CoderHouse
 
-Esta es una descripcion de mi proyecto de React para CoderHouse
+Tienda de padel 
 
+Funcionamiento de la tienda
+<img src="./react.gif" >

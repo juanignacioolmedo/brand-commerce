@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "HEAD Monster ",
+    "description": "La pala MONSTERS KIDS, ligera, corta y de colores vivos, es perfecta para pequeños monstruos de hasta 10 años.",
+    "price": "$75.00",
+    "pictureUrl": "https://cdn-mdb.head.com/CDN3/D/228322/1/768x768/monster-kids-2022.jpg",
+    "category": 1
+  },
+  {
+    "id": 2,
+    "title": "HEAD Zephyr Pro",
+    "description": "La pala ZEPHYR PRO, ligera, cómoda y fácil de manejar, cuenta ahora con la tecnología Graphene 360+ para ofrecer más flexibilidad y sensaciones.",
+    "price": "$200.00",
+    "pictureUrl": "https://cdn-mdb.head.com/CDN3/D/225013/1/768x768/zephyr-pro-2023-bkbl.jpg",
+    "category": 2
+  },
+  {
+    "id": 3,
+    "title": "Bela Pro v2 ",
+    "description": "Cuenta con un punto dulce más amplio que ofrece una sensación más consistente, una cara de carbono 3K Primero y la textura SpinEffect para realizar más giro.",
+    "price": "$375.00",
+    "pictureUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wilson.com%2Fit-it%2Fmedia%2Fcatalog%2Fproduct%2FW%2FR%2FWR133711U__6b9f53e68945b3ca1fbcae2cbb191eb6.png&f=1&nofb=1&ipt=2f77ace84c1aad0bee0c59254fd866667ae8c7724c709516d53180ec148f8374&ipo=images",
+    "category": 3
+  },
+  {
+    "id": 4,
+    "title": "HEAD Flash",
+    "description": "La pala FLASH, fácil de jugar con ella y renovada , está diseñada para los jugadores ocasionales que están empezando a competir en su club.",
+    "price": "$350.00",
+    "pictureUrl": "https://cdn-mdb.head.com/CDN3/D/226123/1/768x768/flash-2023-mipi.jpg",
+    "category": 2
+  }
+]
